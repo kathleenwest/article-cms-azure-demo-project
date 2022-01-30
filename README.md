@@ -41,3 +41,19 @@ You are expected to do the following to complete this project:
 
 ## Project Submission
 
+Your submission must include the following, as according to the project rubric:
+
+1. A screenshot of an article created in the Article CMS on Azure. The screenshot must also include the URL. The article should have the following fields set:
+Title: "Hello World!", Author: "Jane Doe". Body: "My name is Jane Doe and this is my first article!" An image of your choice. It must be either a .png or .jpg.
+2. A screenshot of the resource group from the Azure Portal including all of the resources that were created to complete this project. (see sample screenshot above).
+3. A screenshot showing the created tables and one query of data from the initial scripts in the SQL database (see example in the project repository).
+4. A screenshot showing an example of blob endpoints for where images are sent for storage (see example in project repository).
+5. A screenshot of the redirect URIs related to Microsoft authentication (see example in the project repository).
+6. A screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream or other logs you create and store (see example in project repository). You can customize your log messages as you see fit for these situations.
+7. Your application code—most importantly __init__.py and views.py since they will contain your updates for Auth and Logging.
+8. Your WRITEUP.md file analyzing and explaining your choice between a VM or App Service.
+9. OPTIONAL: A URL to your Python App Service.
+
+## Cleaning Up
+
+Please make sure to cleanup your resource group in Azure after receiving your grade for this course to avoid being billed for any running services when your free account with Azure expires.
