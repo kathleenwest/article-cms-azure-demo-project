@@ -16,7 +16,7 @@ The CMS includes the following components:
 
 I had to create and manage the resources necessary to fully deploy both the necessary storage and compute resources for the app to Azure. As part of the project, I also needed to analyze which resource best fits for app deployment between a VM or App Service. Lastly, I added in an authentication option to Sign in with Microsoft, as well as logging for successful and unsuccessful logins.
 
-App Examples
+App examples for the project were given in the starter code and available [here](https://github.com/kathleenwest/article-cms-azure-demo-project/tree/main/example_images).
 
 
 
