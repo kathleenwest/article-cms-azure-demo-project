@@ -18,10 +18,21 @@ I had to create and manage the resources necessary to fully deploy both the nece
 
 App examples for the project were given in the starter code and available [here](https://github.com/kathleenwest/article-cms-azure-demo-project/tree/main/example_images).
 
-
-
-
-
 ## Demo Video
 
-[![Watch the tutorial video](/demo/Title_Article_CMS_Azure_Demo.jpg)](https://www.youtube.com/watch?v=lcviDfxywbU "Video Tutorial - Udacity CMS Azure Demo Project")
+[![Watch the demo video](/demo/Title_Article_CMS_Azure_Demo.jpg)](https://www.youtube.com/watch?v=lcviDfxywbU "Video Demo - Udacity CMS Azure Demo Project")
+
+## Project Instructions
+
+First, take a look at the project [rubric](https://github.com/kathleenwest/article-cms-azure-demo-project/blob/main/demo/Rubric.jpg), which will be used to grade your submission. Then, get the starter code from this [repository](https://github.com/udacity/nd081-c1-provisioning-microsoft-azure-vms-project-starter).
+
+You are expected to do the following to complete this project:
+
+1. 
+2.
+3.
+4.
+
+
+## Project Submission
+
