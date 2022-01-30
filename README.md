@@ -10,13 +10,13 @@ In this project, I was given a simple Content Management System (CMS) for articl
 
 The CMS includes the following components:
 
-* A webapp using Python with the Flask framework.
-* A SQL database that contains a user table and an article table for the webapp to query.
+* A web app using Python with the Flask framework.
+* A SQL database that contains a user table and an article table for the web app to query.
 * A Blob Storage container where images are stored.
 
-I had to create and manage the resources necessary to fully deploy both the necessary storage and compute resources for the app to Azure. As part of the project, I also needed to analyze which resource best fits for app deployment between a VM or App Service. Lastly, I added in an authentication option to Sign in with Microsoft, as well as logging for successful and unsuccessful logins.
+I had to create and manage the resources necessary to fully deploy both the necessary storage and compute resources for the app to Azure. As part of the project, I also needed to analyze which resource best fits for app deployment between a VM or App Service. Lastly, I added an authentication option to Sign in with Microsoft, as well as logging for successful and unsuccessful logins.
 
-App examples for the project were given in the starter code and available [here](https://github.com/kathleenwest/article-cms-azure-demo-project/tree/main/example_images).
+App examples for the project were given in the starter code and are available [here](https://github.com/kathleenwest/article-cms-azure-demo-project/tree/main/example_images).
 
 ## Demo Video
 
