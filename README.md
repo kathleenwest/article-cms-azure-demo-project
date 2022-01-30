@@ -22,6 +22,12 @@ App examples for the project were given in the starter code and available [here]
 
 [![Watch the demo video](/demo/Title_Article_CMS_Azure_Demo.jpg)](https://www.youtube.com/watch?v=lcviDfxywbU "Video Demo - Udacity CMS Azure Demo Project")
 
+## Specifications Completed
+
+I passed and my project met all specifications that are documented in files and screen captures [here](https://github.com/kathleenwest/article-cms-azure-demo-project/tree/main/demo). Also reference the demo video above for a walk through of how my project was setrup in Azure and met the project specifications. 
+
+<img src="https://github.com/kathleenwest/article-cms-azure-demo-project/blob/main/demo/MeetsSpecifications.jpg">
+
 ## Project Instructions
 
 First, take a look at the project [rubric](https://github.com/kathleenwest/article-cms-azure-demo-project/blob/main/demo/Rubric.jpg), which will be used to grade your submission. Then, get the starter code from this [repository](https://github.com/udacity/nd081-c1-provisioning-microsoft-azure-vms-project-starter).
@@ -53,7 +59,3 @@ Title: "Hello World!", Author: "Jane Doe". Body: "My name is Jane Doe and this i
 7. Your application code—most importantly __init__.py and views.py since they will contain your updates for Auth and Logging.
 8. Your WRITEUP.md file analyzing and explaining your choice between a VM or App Service.
 9. OPTIONAL: A URL to your Python App Service.
-
-## Cleaning Up
-
-Please make sure to cleanup your resource group in Azure after receiving your grade for this course to avoid being billed for any running services when your free account with Azure expires.
