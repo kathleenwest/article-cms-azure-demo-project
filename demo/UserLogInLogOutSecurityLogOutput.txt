@@ -1,0 +1,24 @@
+2021-04-09T19:18:15.837257582Z: [ERROR]  /tmp/8d8fb8baf66e1b0/antenv/lib/python3.8/site-packages/azure/storage/blob/_upload_chunking.py:384: SyntaxWarning: "is" with a literal. Did you mean "=="?
+2021-04-09T19:18:15.837309884Z: [ERROR]    if n is 0 or self._buffer.closed:
+2021-04-09T19:18:15.837334384Z: [ERROR]  /tmp/8d8fb8baf66e1b0/antenv/lib/python3.8/site-packages/azure/storage/blob/baseblobservice.py:975: SyntaxWarning: "is not" with a literal. Did you mean "!="?
+2021-04-09T19:18:15.837345985Z: [ERROR]    if lease_duration is not -1 and\
+2021-04-09T19:18:15.837354685Z: [ERROR]  /tmp/8d8fb8baf66e1b0/antenv/lib/python3.8/site-packages/azure/storage/blob/baseblobservice.py:2527: SyntaxWarning: "is not" with a literal. Did you mean "!="?
+2021-04-09T19:18:15.837363785Z: [ERROR]    if lease_duration is not -1 and\
+2021-04-09T19:18:15.837372186Z: [ERROR]  /tmp/8d8fb8baf66e1b0/antenv/lib/python3.8/site-packages/azure/storage/_connection.py:84: SyntaxWarning: "is" with a literal. Did you mean "=="?
+2021-04-09T19:18:15.837380886Z: [ERROR]    self.protocol = self.protocol if parsed_url.scheme is '' else parsed_url.scheme
+2021-04-09T19:18:15.837389286Z: [ERROR]  INFO: User Logged In...
+2021-04-09T19:18:15.850253125Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:18:15 +0000] "GET /getAToken?code=M.R3_BAY.97d059e0-8e0e-a5bc-97d0-2a50a2fac88d&state=18c9ebf7-5417-43d2-80e8-f7ef1470b4c9 HTTP/1.1" 302 217 "https://login.live.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68"
+2021-04-09T19:18:15.932136616Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:18:15 +0000] "GET /home HTTP/1.1" 200 3288 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68"
+
+2021-04-09T19:18:30.739841723Z: [ERROR]  INFO: User 1 logged out...
+2021-04-09T19:18:30.748937723Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:18:30 +0000] "GET /logout HTTP/1.1" 302 499 "http://kew-udacity-azure-cms-project1.azurewebsites.net/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68"
+
+2021-04-09T19:18:34.918841464Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:18:34 +0000] "GET /login?sid=M.8888426518121915801&iss=https://login.microsoftonline.com/9188040d-6c67-4c5b-b112-36a304b66dad/v2.0 HTTP/1.1" 200 2886 "https://login.live.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68"
+
+2021-04-09T19:19:21.315984846Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:19:21 +0000] "GET / HTTP/1.1" 302 237 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+2021-04-09T19:19:21.501724286Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:19:21 +0000] "GET /login?next=%2F HTTP/1.1" 200 3033 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+
+2021-04-09T19:19:28.195529034Z: [ERROR]  WARNING: Login Unsucessful....Invalid username or password for user:None
+2021-04-09T19:19:28.200941910Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:19:28 +0000] "POST /login?next=%2F HTTP/1.1" 302 219 "http://kew-udacity-azure-cms-project1.azurewebsites.net/login?next=%2F" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+2021-04-09T19:19:28.334421034Z: [INFO]  172.16.0.1 - - [09/Apr/2021:19:19:28 +0000] "GET /login HTTP/1.1" 200 3027 "http://kew-udacity-azure-cms-project1.azurewebsites.net/login?next=%2F" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+
